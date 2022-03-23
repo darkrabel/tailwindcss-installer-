@@ -79,7 +79,7 @@ echo '{
 }
 ' > package.json;
 code .
-npm run start;
+
 
 
 

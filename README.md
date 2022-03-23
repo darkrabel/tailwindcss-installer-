@@ -20,20 +20,31 @@ installing tailwind css is simple but big task so this scirpt automated that
 Install my-project with npm
 
 ```bash
-  git clone 
-  cd my-project
+  git clone https://github.com/darkrabel/tailwindcss-installer-.git
+  cd tailwindcss-installer
 ```
     
 ## Run Locally
 
+
+
+Start the server
+
 ```bash
   npm run start
-  //got to down link 
-  
 ```
 
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
 

@@ -1,5 +1,6 @@
 
-# Tailwind css installer for debian based ditro linux
+# Tailwind css installer for debian based dis
+tro linux
 
 installing tailwind css is simple but big task so this scirpt automated that
 

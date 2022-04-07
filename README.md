@@ -41,11 +41,4 @@ Start the server
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
 

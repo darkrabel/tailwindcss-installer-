@@ -2,14 +2,7 @@
  echo "welcome to taiwnind installer by dark rabel it will only work in debian"
 
 
- echo "enter your folder name where you want to install your tailwind  project:" ;
- read foldername;
-
- echo "yourfolder name is ,$foldername";
-
- mkdir "$foldername";
-
- cd "$foldername";
+ 
 
 
 npm init -y;
